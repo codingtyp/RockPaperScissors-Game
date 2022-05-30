@@ -1,7 +1,7 @@
-import random       # RANDOM PICKING OF NUMBERS dasdadadasdadaa
+import random       # RANDOM PICKING OF NUMBERS 
 
 
-# FUNCTION: MAIN MENU  asdasdsadasdasdadsadsadsdasdasd
+# FUNCTION: MAIN MENU  
 def main_menu():
     print("*********************************************************")
     print("*             ROCK-PAPER-SCISSORS GAME                  *")
